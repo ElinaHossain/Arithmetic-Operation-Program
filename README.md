@@ -1,4 +1,4 @@
-# What does it do?
+## What does it do?
 This program prompts the user to enter their name, an integer, and a floating-point number. It then performs calculations based on the entered values and displays the result along with a personalized message. The program also includes some error handling to check if the inputs are valid. If any of the inputs are invalid, it displays an error message and exits the program. Additionally, if the entered name is "bob" (case-insensitive), it prints a special message!
 
 
